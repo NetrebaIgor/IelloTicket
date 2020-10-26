@@ -33,11 +33,14 @@ namespace IelloTicket.Models.DBModels
         public List<Genre> Genres { get; set; }
 
         public List<Comment> Comments { get; set; }
+
+        public List<Session> Sessions { get; set; }
         public Movie()
         {
             Actors = new List<Actor>();
             Genres = new List<Genre>();
             Comments = new List<Comment>();
+            Sessions = new List<Session>();
         }
 
 
