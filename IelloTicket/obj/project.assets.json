@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Igor\\source\\repos\\IelloTicket\\IelloTicket\\IelloTicket.csproj",
+      "projectUniqueName": "D:\\Lab1\\IelloTicket\\IelloTicket\\IelloTicket.csproj",
       "projectName": "IelloTicket",
-      "projectPath": "C:\\Users\\Igor\\source\\repos\\IelloTicket\\IelloTicket\\IelloTicket.csproj",
+      "projectPath": "D:\\Lab1\\IelloTicket\\IelloTicket\\IelloTicket.csproj",
       "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Igor\\source\\repos\\IelloTicket\\IelloTicket\\obj\\",
+      "outputPath": "D:\\Lab1\\IelloTicket\\IelloTicket\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config",
