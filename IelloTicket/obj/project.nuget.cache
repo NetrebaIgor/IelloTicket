@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xYj0a1VJMmGX5ksuJBIuanUL8MG4SPBtmHmz47aPf7X/AuRBb9iaCrwQpPE8eXCrd2AJDsUDG2cTSJtphRC/9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Igor\\source\\repos\\IelloTicket\\IelloTicket\\IelloTicket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
